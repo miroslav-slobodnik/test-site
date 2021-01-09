@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App" style={ { backgroundColor: '#fff0f0'} }>
+    <div className="App">
       <header className="App-header">
         <h1>Hello Miroslav and Alzbetka :)</h1>
       </header>
